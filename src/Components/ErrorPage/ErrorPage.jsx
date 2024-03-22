@@ -7,7 +7,7 @@ const ErrorPage = () => {
             <h2>Opps!!! <br />
                 page not found.
             </h2>
-            <NavLink to='/'><button>Go Home</button></NavLink>
+            <NavLink to='/'><button>Go Back To Home</button></NavLink>
         </div>
     );
 };
